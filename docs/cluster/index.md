@@ -1,0 +1,27 @@
+# 集群
+
+* [CLUSTER ADDSLOTS](cluster_addslots.md)
+* [CLUSTER COUNT-FAILURE-REPORTS](cluster_count_failure_reports.md)
+* [CLUSTER COUNTKEYSINSLOT](cluster_countkeysinslot.md)
+* [CLUSTER DELSLOTS](cluster_delslots.md)
+* [CLUSTER FAILOVER](cluster_failover.md)
+* [CLUSTER FORGET](cluster_forget.md)
+* [CLUSTER GETKEYSINSLOT](cluster_getkeysinslot.md)
+* [CLUSTER INFO](cluster_info.md)
+* [CLUSTER KEYSLOT](cluster_keyslot.md)
+* [CLUSTER MEET](cluster_meet.md)
+* [CLUSTER NODES](cluster_nodes.md)
+* [CLUSTER REPLICATE](cluster_replicate.md)
+* [CLUSTER RESET](cluster_reset.md)
+* [CLUSTER SAVECONFIG](cluster_saveconfig.md)
+* [CLUSTER SET-CONFIG-EPOCH](cluster_set_config_epoch.md)
+* [CLUSTER SETSLOT](cluster_setslot.md)
+* [CLUSTER SLAVES](cluster_slaves.md)
+* [CLUSTER SLOTS](cluster_slots.md)
+* [READONLY](readonly.md)
+* [READWRITE](readwrite.md)
+
+## 讨论 [¶](#discuss "永久链接至标题")
+
+Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
+[comments powered by Disqus](http://disqus.com)

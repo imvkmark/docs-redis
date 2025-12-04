@@ -1,0 +1,17 @@
+# 关于
+
+本文档是 Redis 命令参考手册的中文翻译版，
+可以在 [RedisDoc.com](http://www.redisdoc.com) 在线阅读本文档。
+
+## 版权声明
+
+本文档由 [黄健宏（huangz）](http://huangz.me) 翻译，版权归 Redis 官方所有。
+
+## 赞助商
+
+本文档由 [云巴（yunba.io）](http://yunba.io/) 提供赞助支持。
+
+## 讨论 [¶](#discuss "永久链接至标题")
+
+Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
+[comments powered by Disqus](http://disqus.com)

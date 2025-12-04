@@ -1,0 +1,7 @@
+node_modules
+redis-doc
+.vercel
+vercel.json
+.vercelignore
+docs/.vitepress/cache
+docs/.vitepress/dist
