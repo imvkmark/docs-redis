@@ -42,6 +42,25 @@ function getSidebar() {
 export default defineConfig({
   title: "Redis Reference",
   description: "Redis Command Reference",
+  head: [
+    [
+        'script',
+        {
+            "async": "true",
+            'src': 'https://www.googletagmanager.com/gtag/js?id=G-6STKYFNBZK'
+        }
+    ],
+    [
+        'script',
+        {},
+        `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-6STKYFNBZK');
+      `
+    ]
+],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
