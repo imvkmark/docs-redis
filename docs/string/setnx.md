@@ -32,8 +32,3 @@ redis> SETNX job "code-farmer"   # 尝试覆盖 job ，失败
 redis> GET job                   # 没有被覆盖
 "programmer"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

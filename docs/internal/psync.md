@@ -18,8 +18,3 @@
 127.0.0.1:6379> PSYNC ? -1
 "REDIS0006\xfe\x00\x00\x02kk\x02vv\x00\x03msg\x05hello\xff\xc3\x96P\x12h\bK\xef"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

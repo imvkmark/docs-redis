@@ -22,8 +22,3 @@ Value at:0xb6838d20 refcount:1 encoding:raw serializedlength:9 lru:283790 lru_se
 redis> DEBUG OBJECT your_mac
 (error) ERR no such key
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

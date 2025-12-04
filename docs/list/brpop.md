@@ -33,8 +33,3 @@ redis> BRPOP course 30
 1) "course"             # 被弹出元素所属的列表键
 2) "c++101"             # 被弹出的元素
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

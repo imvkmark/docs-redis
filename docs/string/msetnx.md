@@ -48,8 +48,3 @@ redis> EXISTS language                          # 因为 MSETNX 命令没有成�
 redis> GET rmdbs                                # rmdbs 键也没有被修改
 "MySQL"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

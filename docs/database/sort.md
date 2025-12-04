@@ -416,8 +416,3 @@ redis 127.0.0.1:6379> LRANGE sorted-numbers 0 -1
 
 没有使用 `STORE` 参数，返回列表形式的排序结果。
 使用 `STORE` 参数，返回排序结果的元素数量。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

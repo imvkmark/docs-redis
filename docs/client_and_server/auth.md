@@ -57,8 +57,3 @@ $ redis                            # 重新进入客户端
 redis> PING                        # 执行命令不再需要密码，清空密码操作成功
 PONG
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

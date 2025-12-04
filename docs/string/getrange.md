@@ -44,8 +44,3 @@ redis> GETRANGE greeting 0 -1         # 从第一个到最后一个
 redis> GETRANGE greeting 0 1008611    # 值域范围不超过实际字符串，超过部分自动被符略
 "hello, my friend"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

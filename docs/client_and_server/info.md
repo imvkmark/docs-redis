@@ -247,8 +247,3 @@ cluster_enabled:0
 # Keyspace
 db0:keys=2,expires=0,avg_ttl=0
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

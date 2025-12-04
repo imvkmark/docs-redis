@@ -187,8 +187,3 @@ Redis 并不保证生存时间（TTL）变为 `0` 的键会立即被删除：
 因此，
 Redis 产生 `expired` 通知的时间为过期键被删除的时候，
 而不是键的生存时间变为 `0` 的时候。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

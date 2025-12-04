@@ -52,8 +52,3 @@ redis> PFADD  databases  "PostgreSQL"    # 添加一个不存在的元素
 redis> PFCOUNT  databases    # 估计数量增一
 4
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

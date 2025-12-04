@@ -78,8 +78,3 @@ QUEUED
 redis> EXEC                  # 因为 lock_times 被修改， joe 的事务执行失败
 (nil)
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

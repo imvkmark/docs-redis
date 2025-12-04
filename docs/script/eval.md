@@ -348,8 +348,3 @@ Redis 内置的 Lua 解释器加载了以下 Lua 库：
 
 * 总是在流水线中使用 [EVAL](#eval) 命令
 * 检查流水线中要用到的所有命令，找到其中的 [EVAL](#eval) 命令，并使用 [SCRIPT EXISTS sha1 [sha1 …]](script_exists.md#script-exists) 命令检查要用到的脚本是不是全都已经保存在缓存里面了。如果所需的全部脚本都可以在缓存里找到，那么就可以放心地将所有 [EVAL](#eval) 命令改成 EVALSHA 命令，否则的话，就要在流水线的顶端(top)将缺少的脚本用 [SCRIPT LOAD script](script_load.md#script-load) 命令加上去。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

@@ -415,8 +415,3 @@ Redis 协议的实现性能可以和二进制协议的实现性能相媲美，
 并且由于 Redis 协议的简单性，
 大部分高级语言都可以轻易地实现这个协议，
 这使得客户端软件的 bug 数量大大减少。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

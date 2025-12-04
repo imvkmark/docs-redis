@@ -333,8 +333,3 @@ Redis 中的脚本本身就是一种事务，
 可能所有用户都会只使用脚本来实现事务也说不定。
 如果真的发生这种情况的话，
 那么我们将废弃并最终移除事务功能。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

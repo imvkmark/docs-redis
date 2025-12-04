@@ -317,8 +317,3 @@ redis 127.0.0.1:6379> scan 176 MATCH *11* COUNT 1000
 `HSCAN` 命令返回的每个元素都是一个键值对，一个键值对由一个键和一个值组成。
 
 `ZSCAN` 命令返回的每个元素都是一个有序集合元素，一个有序集合元素由一个成员（member）和一个分值（score）组成。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

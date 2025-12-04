@@ -37,8 +37,3 @@ redis> APPEND myphone " - 1110"     # 长度从 5 个字符增加到 12 个字�
 redis> GET myphone
 "nokia - 1110"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

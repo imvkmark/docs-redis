@@ -207,8 +207,3 @@ Pieter Noordhuis 提供了一个使用 EventMachine 和 Redis 编写的 [高性�
 程序就可以根据信息的来源，
 在 O(1) 复杂度内，
 将信息交给正确的回调函数来处理。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

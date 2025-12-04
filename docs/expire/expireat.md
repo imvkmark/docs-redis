@@ -25,8 +25,3 @@ redis> EXPIREAT cache 1355292000     # 这个 key 将在 2012.12.12 过期
 redis> TTL cache
 (integer) 45081860
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

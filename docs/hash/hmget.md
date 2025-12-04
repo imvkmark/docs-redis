@@ -26,8 +26,3 @@ redis> HMGET pet dog cat fake_pet             # 返回值的顺序和传入参�
 2) "nounou"
 3) (nil)                                      # 不存在的域返回nil值
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

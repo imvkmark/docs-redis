@@ -10,8 +10,3 @@
 ## 赞助商
 
 本文档由 [云巴（yunba.io）](http://yunba.io/) 提供赞助支持。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

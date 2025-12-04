@@ -29,8 +29,3 @@ redis> ZCOUNT salary 2000 5000          # 计算薪水在 2000-5000 之间的人
 redis> ZCOUNT salary 3000 5000          # 计算薪水在 3000-5000 之间的人数
 (integer) 2
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

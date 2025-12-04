@@ -47,8 +47,3 @@ redis> BRPOPLPUSH msg reciver 1
 ## 模式：循环列表
 
 参考 [RPOPLPUSH source destination](rpoplpush.md#rpoplpush) 命令的《循环列表》一节。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

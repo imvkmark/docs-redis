@@ -109,8 +109,3 @@ redis> SLOWLOG LEN
 ## 返回值
 
 取决于不同命令，返回不同的值。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

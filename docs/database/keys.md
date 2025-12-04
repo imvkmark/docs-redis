@@ -45,8 +45,3 @@ redis> KEYS *  # 匹配数据库内所有 key
 3) "two"
 4) "one"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

@@ -27,8 +27,3 @@ redis> ZSCORE salary tom
 redis> ZINCRBY salary 2000 tom   # tom 加薪啦！
 "4000"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

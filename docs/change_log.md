@@ -79,8 +79,3 @@ Redis 2.8 带来的更新：
 ## 2011 年 4 月(Redis 2.2)
 
 开始进行 Redis 命令参考的翻译工作。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

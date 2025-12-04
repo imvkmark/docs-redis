@@ -244,8 +244,3 @@ masterauth <password>
 * `min-slaves-max-lag <number of seconds>`
 
 详细的信息可以参考 Redis 源码中附带的 `redis.conf` 示例文件。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

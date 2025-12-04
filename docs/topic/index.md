@@ -102,8 +102,3 @@
   + [了解 WATCH](transaction.md#watch)
   + [使用 WATCH 实现 ZPOP](transaction.md#watch-zpop)
   + [Redis 脚本和事务](transaction.md#redis)
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

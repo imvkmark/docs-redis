@@ -27,8 +27,3 @@ OK
 1378822257.329412 [0 127.0.0.1:56604] "KEYS" "*"
 1378822258.690131 [0 127.0.0.1:56604] "DBSIZE"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

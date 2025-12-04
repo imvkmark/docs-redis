@@ -199,8 +199,3 @@ BITFIELD mystring SET i8 #0 100 i8 #1 200
 数组中的每个元素对应一个被执行的子命令。
 需要注意的是，
 `OVERFLOW` 子命令本身并不产生任何回复。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

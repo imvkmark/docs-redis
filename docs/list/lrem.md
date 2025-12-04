@@ -68,8 +68,3 @@ redis> LREM greet 0 hello      # 移除表中所有 hello
 redis> LLEN greet
 (integer) 0
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

@@ -55,8 +55,3 @@ redis> GET pc
 redis:1> GET personal_computer      # 原来的值 dell 被覆盖了
 "lenovo"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

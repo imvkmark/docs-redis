@@ -263,8 +263,3 @@ Note
 你可以在里面分享你的 Redis 使用心得，
 又或者跟其他群友讨论你在使用 Redis 过程中遇到的问题，
 具体的群号请访问译者的[个人主页](http://huangz.me) 查看。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

@@ -62,8 +62,3 @@ redis> HINCRBY myhash string 1              # 命令执行失败，错误。
 redis> HGET myhash string                   # 原值不变
 "hello,world"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

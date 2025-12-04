@@ -26,8 +26,3 @@ redis> RPUSH course c++101
 redis> LPOP course  # 移除头元素
 "algorithm001"
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

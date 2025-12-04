@@ -410,8 +410,3 @@ Redis 的容灾备份基本上就是对数据进行备份，
 另外，
 你还需要一个独立的警报系统，
 让它在负责传送备份文件的传送器（transfer）失灵时通知你。
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

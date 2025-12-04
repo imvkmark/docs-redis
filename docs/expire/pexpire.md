@@ -26,8 +26,3 @@ redis> TTL mykey    # TTL 的返回值以秒为单位
 redis> PTTL mykey   # PTTL 可以给出准确的毫秒数
 (integer) 1499
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)

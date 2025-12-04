@@ -44,8 +44,3 @@ redis> LPUSH db redis mongodb mysql
 redis> GET db
 (error) ERR Operation against a key holding the wrong kind of value
 ```
-
-## 讨论 [¶](#discuss "永久链接至标题")
-
-Please enable JavaScript to view the [comments powered by Disqus.](http://disqus.com/?ref_noscript)
-[comments powered by Disqus](http://disqus.com)
