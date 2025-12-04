@@ -12,15 +12,15 @@ const { isDark } = useData()
     <template #doc-after>
       <div style="margin-top: 24px">
         <Giscus
-          repo="your-repo/name"
-          repo-id="your-repo-id"
+          repo="imvkmark/docs-redis"
+          repo-id="R_kgDOQieiow"
           category="Announcements"
-          category-id="your-category-id"
+          category-id="DIC_kwDOQieio84CzZA8"
           mapping="pathname"
           strict="0"
           reactions-enabled="1"
           emit-metadata="0"
-          input-position="top"
+          input-position="bottom"
           :theme="isDark ? 'dark' : 'light'"
           lang="zh-CN"
           loading="lazy"
