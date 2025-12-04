@@ -5,7 +5,7 @@ import path from 'path'
 // Function to generate sidebar dynamically
 function getSidebar() {
   const docsDir = path.resolve(__dirname, '..')
-  const sidebar = []
+  const sidebar:any = []
   
   // Get all directories in docs
   const dirs = fs.readdirSync(docsDir).filter(file => {
@@ -61,6 +61,9 @@ export default defineConfig({
       `
     ]
 ],
+    sitemap: {
+        hostname: 'https://redis-docs.wulicode.com'
+    },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
