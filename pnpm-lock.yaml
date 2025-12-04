@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@giscus/vue':
-        specifier: ^3.1.1
-        version: 3.1.1(vue@3.5.25)
       viewerjs:
         specifier: ^1.11.7
         version: 1.11.7
@@ -289,11 +286,6 @@ packages:
 
   '@giscus/vue@2.4.0':
     resolution: {integrity: sha512-QOxKHgsMT91myyQagP2v20YYAei1ByZuc3qcaYxbHx4AwOeyVrybDIuRFwG9YDv6OraC86jYnU4Ixd37ddC/0A==}
-    peerDependencies:
-      vue: '>=3.2.0'
-
-  '@giscus/vue@3.1.1':
-    resolution: {integrity: sha512-xgsc93MibRQ0d1glBxN1BrEREHTIf3BPYs/3R+UZHNqawFFoWBV6iJ7uVCXMqoEKZdE2c78B3aKt5gfGqo8I5A==}
     peerDependencies:
       vue: '>=3.2.0'
 
@@ -1078,11 +1070,6 @@ snapshots:
     optional: true
 
   '@giscus/vue@2.4.0(vue@3.5.25)':
-    dependencies:
-      giscus: 1.6.0
-      vue: 3.5.25
-
-  '@giscus/vue@3.1.1(vue@3.5.25)':
     dependencies:
       giscus: 1.6.0
       vue: 3.5.25
